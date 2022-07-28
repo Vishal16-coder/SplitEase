@@ -33,4 +33,4 @@ Optional can also see graph to better understand the transaction
 
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [https://vishal-splitwise.netlify.app/](https://vishal-splitwise.netlify.app/) to view it in the browser.
